@@ -1,0 +1,6 @@
+framework module DouLiaoTabbar {
+  umbrella header "DouLiaoTabbar.h"
+
+  export *
+  module * { export * }
+}
